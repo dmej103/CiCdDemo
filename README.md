@@ -1,2 +1,0 @@
-# CiCdDemo
-CI/CD Demo
